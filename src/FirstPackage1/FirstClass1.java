@@ -8,6 +8,8 @@ public class FirstClass1 {
 		System.out.println("First text");
 		System.out.println("Second text");
 		
+		System.out.println("Uof...");
+		
 	}
 
 }
